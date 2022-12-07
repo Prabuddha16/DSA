@@ -1,4 +1,4 @@
-package Interview.Array.ReverseArray;
+package ReverseArray;
 
 import java.util.Scanner;
 public class Main {

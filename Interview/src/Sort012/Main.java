@@ -5,7 +5,7 @@ public class Main {
     {
         int lo = 0;
         int hi = n - 1;
-        int mid = 0, temp = 0;
+        int mid = 0, temp;
         while (mid <= hi) {
             switch (a[mid]) {
                 case 0: {

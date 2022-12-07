@@ -5,8 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA Self Paced/DSA Self Paced.iml" filepath="$PROJECT_DIR$/DSA Self Paced/DSA Self Paced.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data Structure &amp; Algorithms/Data Structure &amp; Algorithms.iml" filepath="$PROJECT_DIR$/Data Structure &amp; Algorithms/Data Structure &amp; Algorithms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Software Developer/Software Developer.iml" filepath="$PROJECT_DIR$/Software Developer/Software Developer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TCS/TCS.iml" filepath="$PROJECT_DIR$/TCS/TCS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Interview.iml" filepath="$PROJECT_DIR$/Interview/Interview.iml" />
     </modules>
   </component>
 </project>

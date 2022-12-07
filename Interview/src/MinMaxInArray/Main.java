@@ -1,4 +1,4 @@
-package Interview.Basic.MinMaxInArray;
+package MinMaxInArray;
 
 public class Main {
     class pair
